@@ -1,3 +1,3 @@
 # settings-test
 settings-test
-abcdefghij
+a
